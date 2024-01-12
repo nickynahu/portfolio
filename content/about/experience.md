@@ -47,15 +47,15 @@ experience:
   - title: Logistics Manager
     company: Pilot Freight Services
     company_url: ''
-    company_logo: org-x
-    location: Paris, FR
-    date_start: '2021-12-01'
-    date_end: '2022-08-01'
+    company_logo: org-gc
+    location: Amsterdam, NL
+    date_start: '2021-06-01'
+    date_end: '2019-01-01'
     description: |2-
         Responsibilities include:
         
-        * EMEA tender management of major accounts
-        * EMEA pricing and procurement analysis 
+        * New Business & WMS Implementation
+        * Warehouse Management 
 design:
   columns: '1'
 ---

@@ -65,7 +65,9 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
-My name is Nick and I am a front end developer at webitude. I formerly worked in the freight forwarding industry for 15 years after finished a university study in Logistics and Economics. During my former career I gained an interest in systems including ERP, TMS and WMS. My interests include ERP systems, APIs, UI/UX design and coding. I am proficient in the use of HTML, CSS, JavaScript, React and Git. I also have an interest in human languages and speak Dutch, English, French, German and some Spanish.
+My name is Nick and I am a front end developer at webitude. I formerly worked in the freight forwarding industry for 15 years after finishing a university study in Logistics and Economics. 
+
+During my freight forwarding career I gained an interest in systems including ERP, TMS and WMS. My interests include ERP systems, APIs, UI/UX design and coding. I am proficient in the use of HTML, CSS, JavaScript, React and Git. I also have an interest in human languages and speak Dutch, English, French, German and some Spanish.
 
 Currently I lead the website development company webitude which I founded in 2023 and I am learning AI, Python and Chinese (官話). I am also interested in ⚽️🏄‍♂️🎿🏂🚴‍♂️🎸🥋
 
