@@ -27,9 +27,9 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Amsterdam, NL
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2023-02-01'
+    date_end: '2023-08-31'
+    description: Air export operations to and from worldwide destinations.
 
   - title: EMEA Tender Analyst 
     company: JAS
