@@ -22,22 +22,8 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Export Agent
+    company: Broekman Logistics
     company_url: ''
     company_logo: org-x
     location: California
@@ -45,6 +31,31 @@ experience:
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
+  - title: EMEA Tender Analyst 
+    company: JAS
+    company_url: ''
+    company_logo: https://assets-global.website-files.com/5ca4d1fd374efb5066457384/5ca60d89ac19d493b8c6be9d_JAS%20Blue%20Horizontal%20Slogan-p-800.png
+    location: Paris, FR
+    date_start: '2021-12-01'
+    date_end: '2022-08-01'
+    description: |2-
+        Responsibilities include:
+        
+        * EMEA tender management of major accounts
+        * EMEA pricing and procurement analysis 
+
+  - title: Logistics Manager
+    company: Pilot Freight Services
+    company_url: ''
+    company_logo: org-xc
+    location: Paris, FR
+    date_start: '2021-12-01'
+    date_end: '2022-08-01'
+    description: |2-
+        Responsibilities include:
+        
+        * EMEA tender management of major accounts
+        * EMEA pricing and procurement analysis 
 design:
   columns: '1'
 ---
