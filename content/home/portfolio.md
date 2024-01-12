@@ -30,8 +30,8 @@ content:
       tag: '*'
     - name: Machine Learning
       tag: ML
-    - name: Computer Vision
-      tag: CV
+    - name: Local Websites
+      tag: LW
     - name: NLP
       tag: NLP
 
