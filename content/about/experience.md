@@ -47,7 +47,7 @@ experience:
   - title: Logistics Manager
     company: Pilot Freight Services
     company_url: ''
-    company_logo: org-gc
+    company_logo: ![Pilot Logo](https://media.licdn.com/dms/image/C4E0BAQG-Re-N72REHA/company-logo_100_100/0/1651500848090/pilot_freight_services_logo?e=1713398400&v=beta&t=Gq_FjjtrCoipgrXIJa23ZIDqLJmQETcEH5mLgx6UbM4)
     location: Amsterdam, NL
     date_start: '2021-06-01'
     date_end: '2019-01-01'
