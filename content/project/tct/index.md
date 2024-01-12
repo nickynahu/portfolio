@@ -1,6 +1,6 @@
 ---
 title: Tennis Club de Tournus
-summary: Basic website with registration form
+summary: Basic (WordPress) website with registration form
 tags:
   - LW
 date: 2022-01-01
