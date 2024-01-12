@@ -34,7 +34,7 @@ experience:
   - title: EMEA Tender Analyst 
     company: JAS
     company_url: ''
-    company_logo: https://assets-global.website-files.com/5ca4d1fd374efb5066457384/5ca60d89ac19d493b8c6be9d_JAS%20Blue%20Horizontal%20Slogan-p-800.png
+    company_logo: org-x
     location: Paris, FR
     date_start: '2021-12-01'
     date_end: '2022-08-01'
@@ -47,7 +47,7 @@ experience:
   - title: Logistics Manager
     company: Pilot Freight Services
     company_url: ''
-    company_logo: org-xc
+    company_logo: org-x
     location: Paris, FR
     date_start: '2021-12-01'
     date_end: '2022-08-01'
