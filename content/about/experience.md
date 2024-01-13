@@ -25,7 +25,7 @@ experience:
   - title: Export Agent
     company: Broekman Logistics
     company_url: ''
-    company_logo: 
+    company_logo: ''
     location: Amsterdam, NL
     date_start: '2023-02-01'
     date_end: '2023-08-31'
@@ -34,7 +34,7 @@ experience:
   - title: EMEA Tender Analyst 
     company: JAS
     company_url: ''
-    company_logo: 
+    company_logo: ''
     location: Paris, FR
     date_start: '2021-12-01'
     date_end: '2022-08-01'
@@ -47,7 +47,7 @@ experience:
   - title: Logistics Manager
     company: Pilot Freight Services
     company_url: ''
-    company_logo: pfs.png
+    company_logo: ''
     location: Amsterdam, NL
     date_start: '2021-06-01'
     date_end: '2019-01-01'
