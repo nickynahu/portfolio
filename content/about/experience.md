@@ -47,7 +47,7 @@ experience:
   - title: Logistics Manager
     company: Pilot Freight Services
     company_url: ''
-    company_logo: pfs.jpeg
+    company_logo: pfs.png
     location: Amsterdam, NL
     date_start: '2021-06-01'
     date_end: '2019-01-01'
