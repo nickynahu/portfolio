@@ -49,8 +49,8 @@ experience:
     company_url: ''
     company_logo: ''
     location: Amsterdam, NL
-    date_start: '2021-06-01'
-    date_end: '2019-01-01'
+    date_start: '2019-06-01'
+    date_end: '2021-06-01'
     description: |2-
         Responsibilities include:
         
