@@ -25,29 +25,29 @@ experience:
   - title: Export Agent
     company: Broekman Logistics
     company_url: ''
-    company_logo: org-x
+    company_logo: bla
     location: Amsterdam, NL
     date_start: '2023-02-01'
     date_end: '2023-08-31'
-    description: Air export operations to and from worldwide destinations.
+    description: Air export operations to and from worldwide destinations
 
   - title: EMEA Tender Analyst 
     company: JAS
     company_url: ''
-    company_logo: org-x
+    company_logo: jas
     location: Paris, FR
     date_start: '2021-12-01'
     date_end: '2022-08-01'
     description: |2-
         Responsibilities include:
         
-        * EMEA tender management of major accounts
+        * EMEA tender management for global major accounts
         * EMEA pricing and procurement analysis 
 
   - title: Logistics Manager
     company: Pilot Freight Services
     company_url: ''
-    company_logo: ![Pilot Logo](https://media.licdn.com/dms/image/C4E0BAQG-Re-N72REHA/company-logo_100_100/0/1651500848090/pilot_freight_services_logo?e=1713398400&v=beta&t=Gq_FjjtrCoipgrXIJa23ZIDqLJmQETcEH5mLgx6UbM4)
+    company_logo: pfs
     location: Amsterdam, NL
     date_start: '2021-06-01'
     date_end: '2019-01-01'

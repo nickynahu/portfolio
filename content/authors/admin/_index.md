@@ -65,7 +65,7 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
-My name is Nick and I am a front end developer at webitude. I formerly worked in the freight forwarding industry for 15 years after finishing a university study in Logistics and Economics. 
+My name is Nick and I am a front-end developer. I have worked in the freight forwarding industry for 15 years after finishing a university study in Logistics and Economics. 
 
 During my freight forwarding career I gained an interest in systems including ERP, TMS and WMS. My interests include ERP systems, APIs, UI/UX design and coding. I am proficient in the use of HTML, CSS, JavaScript, React and Git. I also have an interest in human languages and speak Dutch, English, French, German and some Spanish.
 
